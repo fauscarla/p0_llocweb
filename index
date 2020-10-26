@@ -1,0 +1,41 @@
+<!--versió 5  html-->
+<!DOCTYPE html>
+
+<html lang="ca">
+
+<head>
+    <meta charset="UTF-8">
+    <title>titol que ens apareix en la pantalla</title>
+    <style type="text/css">
+        h1{
+           background: purple;
+           color: floralwhite
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Recursos Interactius Aplicats a la Gràfica Publicitària</h1>
+        <h2>Carla Faus</h2>
+    </header>
+    <nav>
+        <a href="">Projectes</a>
+        <a href="">Recursos</a>
+    </nav>
+    <main>
+        <section>
+            <h3>Projectes</h3>
+            lorem_p2
+        </section>
+        <section>
+            <h3>Recursos</h3>
+        </section>
+    </main>
+    <footer>
+        <p><a href="https://www.instagram.com/">@pokelinkle</a>
+        </p>
+    </footer>
+</body>
+
+</html>
