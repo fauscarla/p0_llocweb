@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Proforma';
+    src: url('../fonts/Proforma-Light.eot');
+    src: url('Proforma-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Proforma-Light.woff2') format('woff2'),
+        url('../fonts/Proforma-Light.woff') format('woff'),
+        url('../fonts/Proforma-Light.ttf') format('truetype'),
+        url('../fonts/Proforma-Light.svg#Proforma-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
